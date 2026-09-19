@@ -1,0 +1,9 @@
+transformers==5.17.0
+torch==2.14.0+cpu
+huggingface_hub==1.32.0
+numpy==2.5.3
+scikit-learn NOT INSTALLED
+matplotlib==3.11.2
+seaborn==0.13.2
+datasets==5.0.1
+scikit-learn==1.7.2
